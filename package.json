@@ -1,0 +1,17 @@
+{
+  "name": "bf-addfeature-rollback-github",
+  "version": "1.0.0",
+  "description": "Minimal Node.js + Express tutorial server exposing /hello and /good-evening",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "ISC"
+}
